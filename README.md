@@ -9,12 +9,12 @@ by **Joel Akwam**
 ## Known Bugs
 The player is supposed to guess one letter at a time. But the application still accepts two letters.
 ## Technologies Used
-1. Visual Studio code text editor.
-2. JDK.
-3. Gradle.
-4. Git and GitHub.
+* Visual Studio code text editor.
+* JDK.
+* Gradle.
+* Git and GitHub.
 ## Contacts Details
-1. GitHub: https://github.com/JoelAkwam
-2. E-mail: jakwam@gmail.com.
+* GitHub: https://github.com/JoelAkwam
+* E-mail: jakwam@gmail.com.
 ## License
 The application is licensed under the MIT. Copyright (c) 2018 **Moringa School** 
