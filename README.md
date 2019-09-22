@@ -1,7 +1,7 @@
 # Hangman
 by **Joel Akwam**
 ## Description
-**This is a game written in java that can be played by two players. One player enters random word and the other player is prompted to guess a letter that might be in that word.**
+This is a game written in java that can be played by two players. One player enters random word and the other player is prompted to guess a letter that might be in that word.
 ## Setup/Installation
 1. Clone or download the repository from https://github.com/JoelAkwam/hangman.
 2. Run the application through the terminal with the command *gradle run*(if you have gradle installed in your computer) and you are good to go.
